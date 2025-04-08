@@ -40,7 +40,7 @@ const HeroSection = () => {
             I&apos;m truly excited to continue improving my Front-End development skills and expand my knowledge in this field. 
             I&apos;m dedicated to learning new technologies, tools, and best practices to better support my work. By enhancing my skills, 
             I aim to increase my productivity and efficiency, which will ultimately help streamline processes and improve the quality of the projects I contribute to. 
-            My goal is not only to grow professionally but also to make a positive and lasting impact on the company's overall development and success, ensuring that we remain 
+            My goal is not only to grow professionally but also to make a positive and lasting impact on the company&apos;s overall development and success, ensuring that we remain 
             innovative and competitive in the ever-evolving digital landscape.
           </p>
           <a
